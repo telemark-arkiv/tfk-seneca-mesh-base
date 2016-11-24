@@ -1,6 +1,6 @@
 {
   "name": "tfk-seneca-mesh-base",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Our base for seneca services",
   "license": "MIT",
   "private": true,

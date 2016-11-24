@@ -11,13 +11,13 @@ $ docker build -t tfk-seneca-mesh-base .
 Start
 
 ```
-$ docker run -d --net host --name tfk-seneca-mesh-base tfk-seneca-mesh-base
+$ docker run -d --name tfk-seneca-mesh-base tfk-seneca-mesh-base
 ```
 
 From hub.docker.com
 
 ```
-$ docker run -d --net host --name tfk-seneca-mesh-base telemark/tfk-seneca-mesh-base
+$ docker run -d --name tfk-seneca-mesh-base telemark/tfk-seneca-mesh-base
 ```
 
 ## License
