@@ -1,4 +1,6 @@
 # tfk-seneca-mesh-base
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/telemark/tfk-seneca-mesh-base.svg)](https://greenkeeper.io/)
 Base for seneca mesh
 
 ## Docker
