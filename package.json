@@ -9,13 +9,9 @@
     "email": "geir.gasodden@pythonia.no",
     "url": "https://github.com/zrrrzzt"
   },
-  "bugs": {
-    "url": "https://github.com/telemark/tfk-seneca-mesh-base/issues"
-  },
-  "homepage": "https://github.com/telemark/tfk-seneca-mesh-base",
   "main": "service.js",
   "engines": {
-    "node": ">=4.6.2"
+    "node": ">=4.8.0"
   },
   "scripts": {
     "test": "standard && nsp check && tap --reporter=spec test/**/*.js",
@@ -29,10 +25,14 @@
     "type": "git",
     "url": "git://github.com/telemark/tfk-seneca-mesh-base.git"
   },
+  "bugs": {
+    "url": "https://github.com/telemark/tfk-seneca-mesh-base/issues"
+  },
+  "homepage": "https://github.com/telemark/tfk-seneca-mesh-base",
   "devDependencies": {
-    "coveralls": "2.11.16",
-    "nsp": "2.6.2",
-    "standard": "8.6.0",
+    "coveralls": "2.12.0",
+    "nsp": "2.6.3",
+    "standard": "9.0.2",
     "tap": "10.0.2"
   },
   "dependencies": {
