@@ -1,6 +1,6 @@
 {
   "name": "tfk-seneca-mesh-base",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Base for our seneca services",
   "license": "MIT",
   "private": true,
@@ -11,7 +11,7 @@
   },
   "main": "service.js",
   "engines": {
-    "node": ">=4.8.0"
+    "node": ">=4.8.2"
   },
   "scripts": {
     "test": "standard && nsp check && tap --reporter=spec test/**/*.js",
