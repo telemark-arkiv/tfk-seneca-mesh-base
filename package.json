@@ -31,7 +31,7 @@
   "homepage": "https://github.com/telemark/tfk-seneca-mesh-base",
   "devDependencies": {
     "coveralls": "2.12.0",
-    "nsp": "2.6.3",
+    "nsp": "2.8.1",
     "standard": "9.0.2",
     "tap": "10.3.0"
   },
